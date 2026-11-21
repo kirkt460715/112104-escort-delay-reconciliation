@@ -1,0 +1,6 @@
+variant,pickup_delta,closing_delta,scope
+J-A,-25,0,weekday
+J-B,0,25,weekday
+J-C,-25,25,weekday
+J-D,-10,30,weekend
+J-E,-30,50,weekend

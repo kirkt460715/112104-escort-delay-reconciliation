@@ -1,0 +1,9 @@
+flow,stage,depends,min_minutes
+weekday,depart,family|car|escort,0
+weekday,arrive,depart,22
+weekday,checkin,arrive|opens,0
+weekday,return,care_done|return_car,25
+weekend,depart,family|car|escort,0
+weekend,arrive,depart,35
+weekend,checkin,arrive|opens,0
+weekend,return,care_done|return_car,30
